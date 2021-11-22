@@ -23,7 +23,7 @@
         List<Productos> listaProductos = (List<Productos>) request.getAttribute("listado");
         %>
     <body>
-        <h1>Listado de Productos</h1>
+        <h1>Listado de Productos por nombre</h1>
         <table>
             <tr>
                 <%
